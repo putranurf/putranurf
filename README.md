@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Putra Nurfajar as Software Engineer 
+
+🔭 I’m currently working on ReactJs and GoLang with experience more than 4 years
+
+
+
 <!--
 **putranurf/putranurf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
