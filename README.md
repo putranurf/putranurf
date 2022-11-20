@@ -3,6 +3,7 @@
 I'm Putra Nurfajar as Software Engineer 
 
 🔭 I’m currently working on ReactJs and GoLang with experience more than 4 years
+
 📫 Send me email putranf@gmail.com if you want to reach me out.
 
 
